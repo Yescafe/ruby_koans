@@ -10,7 +10,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] nil
 - [x] objects
 - [x] arrays
-- [ ] array assignment
+- [x] array assignment
 - [ ] hashes
 - [ ] strings
 - [ ] symbols
