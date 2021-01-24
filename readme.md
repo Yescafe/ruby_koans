@@ -6,7 +6,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 
 ## Progress:  
 
-- [ ] asserts
+- [x] asserts
 - [ ] nil
 - [ ] objects
 - [ ] arrays
