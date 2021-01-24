@@ -8,7 +8,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 
 - [x] asserts
 - [x] nil
-- [ ] objects
+- [x] objects
 - [ ] arrays
 - [ ] array assignment
 - [ ] hashes
