@@ -7,7 +7,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 ## Progress:  
 
 - [x] asserts
-- [ ] nil
+- [x] nil
 - [ ] objects
 - [ ] arrays
 - [ ] array assignment
