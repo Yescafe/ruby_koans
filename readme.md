@@ -11,7 +11,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] objects
 - [x] arrays
 - [x] array assignment
-- [ ] hashes
+- [x] hashes
 - [ ] strings
 - [ ] symbols
 - [ ] regular expressions
