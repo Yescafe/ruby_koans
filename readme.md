@@ -12,7 +12,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] arrays
 - [x] array assignment
 - [x] hashes
-- [ ] strings
+- [x] strings
 - [ ] symbols
 - [ ] regular expressions
 - [ ] methods
