@@ -27,7 +27,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] blocks
 - [x] sandwich code
 - [x] scoring project
-- [ ] classes
+- [x] classes
 - [ ] open classes
 - [ ] dice project
 - [ ] inheritance
