@@ -22,7 +22,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] true and false
 - [x] triangle project
 - [x] exceptions
-- [ ] triangle project 2
+- [x] triangle project 2
 - [ ] iteration
 - [ ] blocks
 - [ ] sandwich code
