@@ -23,7 +23,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] triangle project
 - [x] exceptions
 - [x] triangle project 2
-- [ ] iteration
+- [x] iteration
 - [ ] blocks
 - [ ] sandwich code
 - [ ] scoring project
