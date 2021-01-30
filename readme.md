@@ -21,7 +21,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] control statements
 - [x] true and false
 - [x] triangle project
-- [ ] exceptions
+- [x] exceptions
 - [ ] triangle project 2
 - [ ] iteration
 - [ ] blocks
