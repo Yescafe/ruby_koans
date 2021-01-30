@@ -34,7 +34,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] modules
 - [x] scope
 - [x] class methods
-- [ ] message passing
+- [x] message passing
 - [ ] proxy object project
 - [ ] to str
 - [ ] extra credit
