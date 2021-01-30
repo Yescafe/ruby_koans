@@ -17,7 +17,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] regular expressions
 - [x] methods
 - [x] keyword arguments
-- [ ] constants
+- [x] constants
 - [ ] control statements
 - [ ] true and false
 - [ ] triangle project
