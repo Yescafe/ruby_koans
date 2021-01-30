@@ -33,7 +33,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] inheritance
 - [x] modules
 - [x] scope
-- [ ] class methods
+- [x] class methods
 - [ ] message passing
 - [ ] proxy object project
 - [ ] to str
