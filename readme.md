@@ -31,7 +31,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] open classes
 - [x] dice project
 - [x] inheritance
-- [ ] modules
+- [x] modules
 - [ ] scope
 - [ ] class methods
 - [ ] message passing
