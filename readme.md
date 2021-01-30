@@ -25,7 +25,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] triangle project 2
 - [x] iteration
 - [x] blocks
-- [ ] sandwich code
+- [x] sandwich code
 - [ ] scoring project
 - [ ] classes
 - [ ] open classes
