@@ -16,7 +16,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] symbols
 - [x] regular expressions
 - [x] methods
-- [ ] keyword arguments
+- [x] keyword arguments
 - [ ] constants
 - [ ] control statements
 - [ ] true and false
