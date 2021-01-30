@@ -20,7 +20,7 @@ class AboutNil < Neo::Koan
 
       # What message was attached to the exception?
       # (HINT: replace __ with part of the error message.)
-      print ex.message
+      
       # 耍个小聪明，这里其实是匹配正则表达式，所以我留空应该也可以匹配，果不其然是通过了
       # 实际的错误信息应为 undefined method `some_method_nil_doesnt_know_about' for nil:NilClass
       assert_match(//, ex.message)
