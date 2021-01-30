@@ -35,6 +35,6 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] scope
 - [x] class methods
 - [x] message passing
-- [ ] proxy object project
+- [x] proxy object project
 - [ ] to str
 - [ ] extra credit
