@@ -20,7 +20,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] constants
 - [x] control statements
 - [x] true and false
-- [ ] triangle project
+- [x] triangle project
 - [ ] exceptions
 - [ ] triangle project 2
 - [ ] iteration
