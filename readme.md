@@ -29,7 +29,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] scoring project
 - [x] classes
 - [x] open classes
-- [ ] dice project
+- [x] dice project
 - [ ] inheritance
 - [ ] modules
 - [ ] scope
