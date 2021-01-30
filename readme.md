@@ -14,7 +14,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] hashes
 - [x] strings
 - [x] symbols
-- [ ] regular expressions
+- [x] regular expressions
 - [ ] methods
 - [ ] keyword arguments
 - [ ] constants
