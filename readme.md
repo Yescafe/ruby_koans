@@ -18,7 +18,7 @@ Thanks to [Spdwal](https://github.com/Spdwal/) and his https://github.com/Spdwal
 - [x] methods
 - [x] keyword arguments
 - [x] constants
-- [ ] control statements
+- [x] control statements
 - [ ] true and false
 - [ ] triangle project
 - [ ] exceptions
